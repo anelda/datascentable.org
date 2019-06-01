@@ -2,7 +2,7 @@
 
 I recently embarked on a journey of growing my programming, data wrangling, data visualisation and other data science skills. 
 
-Over the past few years I've spent a lot of time in the company of some great data scientists from all over the world. I also had the amazing opportunity to share some of the foundational skills that I've acquired, with students, researchers, and other staff members from all South Africa's public universities. 
+Over the past few years I've spent a lot of time in the company of some great data scientists from all over the world. I also had the amazing opportunity to share some of the foundational skills that I've acquired, with students, researchers, and other staff members from South African public universities. 
 
 Over the next few years I will be honing my technical skills with the aim of bringing what I learn back to communities and individuals who want to learn and don't know where to start. I will also use these skills for social good wherever and whenever I can.
 
