@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learning how to work with data? I hope my blog site will inspire you, provide
   useful insights and recipes for doing data wrangling, data visualisation or other
   data sciency tasks. 
-twitter_username: @aneldavdw
+twitter_username: aneldavdw
 github_username: anelda
 minimal_mistakes_skin: default
 search: true
