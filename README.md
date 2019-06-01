@@ -1,27 +1,9 @@
-# Minimal Mistakes remote theme starter
+# About Data Journeys
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I recently embarked on a journey of growing my programming, data wrangling, data visualisation and other data science skills. 
 
-Contains basic configuration to get you a site with:
+Over the past few years I've spent a lot of time in the company of some great data scientists from all over the world. I also had the amazing opportunity to share some of the foundational skills that I've acquired, with students, researchers, and other staff members from all South Africa's public universities. 
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Over the next few years I will be honing my technical skills with the aim of bringing what I learn back to communities and individuals who want to learn and don't know where to start. I will also use these skills for social good wherever and whenever I can.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Here you can read about steps on my journey to grow these skills.
