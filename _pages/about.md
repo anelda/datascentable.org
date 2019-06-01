@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I recently embarked on a journey of growing my programming, data wrangling, data visualisation and other data science skills.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Over the past few years I've spent a lot of time in the company of some great data scientists from all over the world. I also had the amazing opportunity to share some of the foundational skills that I've acquired, with students, researchers, and other staff members from all South Africa's public universities.
+
+Over the next few years I will be honing my technical skills with the aim of bringing what I learn back to communities and individuals who want to learn and don't know where to start. I will also use these skills for social good wherever and whenever I can.
+
+Here you can read about steps on my journey to grow these skills.
+
+The name "Datascentable" refers to the ascent up the mountain of data-related skills that can be learned to make one more proficient in the world of data science. The -able suffix is to remind me that I can do this - and to remind others that they can do this too!
+
